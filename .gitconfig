@@ -1,3 +1,7 @@
 [user]
 	email = cogentdom@gmail.com
 	name = cogentdom
+[credential]
+	helper = store
+[github]
+	token = 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
