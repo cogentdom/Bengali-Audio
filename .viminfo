@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1657454036,,"wq"
+|2,0,1657454163,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,30 @@
 # Registers:
 
 # File marks:
-'0  5  7  ~/.gitignore
-|4,48,5,7,1657454036,"~/.gitignore"
-'1  4  0  ~/.gitignore
-|4,49,4,0,1657453954,"~/.gitignore"
-'2  4  0  ~/.gitignore
-|4,50,4,0,1657453954,"~/.gitignore"
+'0  7  0  ~/.gitignore
+|4,48,7,0,1657454163,"~/.gitignore"
+'1  5  7  ~/.gitignore
+|4,49,5,7,1657454036,"~/.gitignore"
+'2  5  7  ~/.gitignore
+|4,50,5,7,1657454036,"~/.gitignore"
+'3  4  0  ~/.gitignore
+|4,51,4,0,1657453954,"~/.gitignore"
+'4  4  0  ~/.gitignore
+|4,52,4,0,1657453954,"~/.gitignore"
+'5  4  0  ~/.gitignore
+|4,53,4,0,1657453954,"~/.gitignore"
+'6  4  0  ~/.gitignore
+|4,54,4,0,1657453954,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  7  0  ~/.gitignore
+|4,39,7,0,1657454163,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1657454154,"~/.gitignore"
 -'  5  7  ~/.gitignore
 |4,39,5,7,1657454036,"~/.gitignore"
+-'  4  0  ~/.gitignore
+|4,39,4,0,1657454025,"~/.gitignore"
 -'  4  0  ~/.gitignore
 |4,39,4,0,1657454025,"~/.gitignore"
 -'  4  0  ~/.gitignore
@@ -43,13 +57,16 @@
 |4,39,1,0,1657453863,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1657453863,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1657453863,"~/.gitignore"
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1657454035	0
-	"	5	7
-	^	5	8
-	.	5	7
+	*	1657454162	0
+	"	7	0
+	^	7	0
+	.	6	2
 	+	4	5
-	+	5	7
+	+	5	8
+	+	6	2
