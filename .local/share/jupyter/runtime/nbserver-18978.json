@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/cogentdom",
+  "password": false,
+  "pid": 18978,
+  "port": 8889,
+  "secure": false,
+  "sock": "",
+  "token": "12b251d121ecb8b941e02485a4d6b827a064592b5693d1d0",
+  "url": "http://0.0.0.0:8889/"
+}
